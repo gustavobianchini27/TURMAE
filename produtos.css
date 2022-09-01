@@ -1,20 +1,20 @@
-#comida {
+.comida {
 	width: 20%;
 	margin-right: 15%;
 }
 
-#sobremesa {
+.sobremesa {
 	width: 20%;
 	margin-right: 15%;
 }
 
 
-#completa {
+.completa {
 	width: 20%;
 	margin-right: 15%;
 }
 
-#logo {
+.logo {
 	width: 20%;
 	margin-right: 15%;
 }
